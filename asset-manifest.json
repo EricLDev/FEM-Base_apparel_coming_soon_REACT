@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FEM-Base_apparel_coming_soon_REACT/static/css/main.a5b19983.css",
+    "main.js": "/FEM-Base_apparel_coming_soon_REACT/static/js/main.02df4bd8.js",
+    "static/js/787.6c2ad3cf.chunk.js": "/FEM-Base_apparel_coming_soon_REACT/static/js/787.6c2ad3cf.chunk.js",
+    "static/media/hero-desktop.jpg": "/FEM-Base_apparel_coming_soon_REACT/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/hero-mobile.jpg": "/FEM-Base_apparel_coming_soon_REACT/static/media/hero-mobile.1afd055b71b78462d388.jpg",
+    "index.html": "/FEM-Base_apparel_coming_soon_REACT/index.html",
+    "static/media/bg-pattern-desktop.svg": "/FEM-Base_apparel_coming_soon_REACT/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7.svg",
+    "static/media/icon-error.svg": "/FEM-Base_apparel_coming_soon_REACT/static/media/icon-error.77009af74a9c193a398a6476b25aa1f3.svg",
+    "static/media/icon-arrow.svg": "/FEM-Base_apparel_coming_soon_REACT/static/media/icon-arrow.4b3d2d93cd838720beda936cd05c7382.svg",
+    "main.a5b19983.css.map": "/FEM-Base_apparel_coming_soon_REACT/static/css/main.a5b19983.css.map",
+    "main.02df4bd8.js.map": "/FEM-Base_apparel_coming_soon_REACT/static/js/main.02df4bd8.js.map",
+    "787.6c2ad3cf.chunk.js.map": "/FEM-Base_apparel_coming_soon_REACT/static/js/787.6c2ad3cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b19983.css",
+    "static/js/main.02df4bd8.js"
+  ]
+}
