@@ -22,3 +22,26 @@
     color: hsl(0, 36%, 70%);
     line-height: 1.4rem;
 }
+
+@media screen and (min-width: 768px) {
+    .comingSoon {
+        grid-column: 1/2;
+        width: 70%;
+        justify-self: center;
+        text-align: left;
+        padding-right: 7rem;
+        margin-top: 0;
+    }
+
+    .title {
+        font-size: 4rem;
+        letter-spacing: 0.75rem;
+        line-height: 4.5rem;
+    }
+
+    .text {
+        font-size: 1rem;
+        line-height: 1.75rem;
+
+    }
+}

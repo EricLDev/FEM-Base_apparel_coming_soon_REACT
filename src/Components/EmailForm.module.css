@@ -68,3 +68,40 @@ button:hover {
 .error {
     color: hsl(0, 93%, 68%);
 }
+
+
+@media screen and (min-width: 768px) {
+    .emailForm {
+        grid-column: 1/2;
+        width: 70%;
+        justify-self: center;
+        text-align: left;
+        margin-bottom: 9rem;
+        padding-right: 7rem;
+    }
+
+    input {
+        height: 3.5rem;
+    }
+
+    ::placeholder {
+        font-size: 1rem;
+    }
+
+    button {
+        height: 3.5rem;
+        right: 7rem;
+        width: 6rem;
+    }
+
+    button:hover {
+        width: 6rem;
+    }
+
+    .iconError {
+        right: 14rem;
+        top: 1rem;
+    }
+
+
+}
