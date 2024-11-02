@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-layout-with-email-form-validation-react-tarSTJ4fd]
-- Live Site URL: [https://ericl81.github.io/FEM-Base_apparel_coming_soon_REACT/]
+- Live Site URL: [https://ericldev.github.io/FEM-Base_apparel_coming_soon_REACT/]
 
 # Frontend Mentor - Base Apparel coming soon page
 
